@@ -1,0 +1,51 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20190314145110
+Username: WFM\berkenbaughj
+RunAs User: WFM\berkenbaughj
+Configuration Name: 
+Machine: MWMLW-CB86382 (Microsoft Windows NT 10.0.17134.0)
+Host Application: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -Command if((Get-ExecutionPolicy ) -ne 'AllSigned') { Set-ExecutionPolicy -Scope Process Bypass }; & 'I:\USMT\Scripts\Region Scripts\MW\CurrentPCUndo\DL-Hostname.ps1'
+Process ID: 13652
+PSVersion: 5.1.17134.590
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.17134.590
+BuildVersion: 10.0.17134.590
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is .\Scripts\DL Results\Transcript_MWMLW3.14.2019.log
+NUMBER OF ACTIVE TEAM MEMBER ACCOUNTS:  156
+SELECT WORKSTATION BEING LOGGED... 1
+FILTERING FOR ONLINE MACHINES...
+MWMLW-CB86382
+Removing OLD Midwest User Setup Tool Shortcut from Available MLW workstations.
+MW User Setup Tool NOT present on MWMLW-CB86382
+THE FOLLOWING OFFLINE OR LAPTOP DEVICES HAVE BEEN IGNORED BY THIS SCRIPT...
+.\Scripts\DL Results\IgnoredWorkstations.log
+Does \\MWMLW-CB86382\c$\users\Austin.Kolczynski\Desktop specify a file name
+or directory name on the target
+(F = file, D = directory)? d
+0 File(s) copied
+0 File(s) copied
+0 File(s) copied
+Located a profile for brooke.remitz on MWMLW-CB86382
+ACTIONS:  Locally directing connections and Copying for brooke.remitz on MWMLW-CB86382
+0 File(s) copied
+0 File(s) copied
+\\MWMLW-fs1\users$\brooke.remitz\My Documents\Outlook Files\Personal Folders(1).pst
+Insufficient disk space
+0 File(s) copied
+Located a profile for berkenbaughj on MWMLW-CB86382
+ACTIONS:  Locally directing connections and Copying for berkenbaughj on MWMLW-CB86382
+0 File(s) copied
+0 File(s) copied
+0 File(s) copied
+A transcript file of these operations has been saved
+This operation is COMPLETE!
+**********************
+Windows PowerShell transcript end
+End time: 20190314145422
+**********************

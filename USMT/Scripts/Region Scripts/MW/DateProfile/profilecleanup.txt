@@ -1,0 +1,478 @@
+2019-06-26 11-48-24  START OF CLEANING...
+2019-06-26 11-48-24  COMPUTER CLEANED:  wfm\MWWAWCS2
+2019-06-26 11-48-24  UNUSED PROFILE QUALIFIER: 45 Days
+2019-06-26 11-48-24  PROFILES PRESERVED BY EXCEPTION... "Administrator,Default,Public,berkenbaughj"
+2019-06-26 11-48-24  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): Administrator
+2019-06-26 11-48-24  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): bryce.nickerson
+2019-06-26 11-48-24  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): ryan.carlson
+2019-06-26 11-48-24  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): melissa.yerman
+2019-06-26 11-48-24  Removing Profile: kim.menzel
+2019-06-26 11-48-24  Cleaning Registry for Profile: kim.menzel
+2019-06-26 11-48-24  Removing Profile: ConMgrAdmin
+2019-06-26 11-48-24  Cleaning Registry for Profile: ConMgrAdmin
+2019-06-26 11-48-24  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): vanesa.jauregui
+2019-06-26 11-48-24  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): josh.borgschulte
+2019-06-26 11-48-24  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): greg.j.moore
+2019-06-26 11-48-24  Removing Profile: kevin.vandegrift
+2019-06-26 11-48-24  Cleaning Registry for Profile: kevin.vandegrift
+2019-06-26 11-48-24  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): robert.juge
+2019-06-26 11-48-24  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): jennifer.coppage
+2019-06-26 11-48-24  Removing Profile: abigail.hinchey
+2019-06-26 11-48-24  Cleaning Registry for Profile: abigail.hinchey
+2019-06-26 11-48-24  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): shauna.flynn
+2019-06-26 11-48-24  Removing Profile: riley.plemons
+2019-06-26 11-48-24  Cleaning Registry for Profile: riley.plemons
+2019-06-26 11-48-24  Removing Profile: strohlm
+2019-06-26 11-48-24  Cleaning Registry for Profile: strohlm
+2019-06-26 11-48-24  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): william.kaplan
+2019-06-26 11-48-24  Removing Profile: jessica.wiegel
+2019-06-26 11-48-24  Cleaning Registry for Profile: jessica.wiegel
+2019-06-26 11-48-24  Removing Profile: nina.roberts
+2019-06-26 11-48-24  Cleaning Registry for Profile: nina.roberts
+2019-06-26 11-48-24  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): maryann.hernandez
+2019-06-26 11-48-24  Removing Profile: austin.kolczynski
+2019-06-26 11-48-24  Cleaning Registry for Profile: austin.kolczynski
+2019-06-26 11-48-24  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): patricia.valenzuel
+2019-06-26 11-48-24  Removing Profile: kyiesha.bates
+2019-06-26 11-48-24  Cleaning Registry for Profile: kyiesha.bates
+2019-06-26 11-48-24  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): berkenbaughj
+2019-06-26 11-48-24  Removing Profile: angela.brunner
+2019-06-26 11-48-24  Cleaning Registry for Profile: angela.brunner
+2019-06-26 11-48-24  Removing Profile: jessica.larsen
+2019-06-26 11-48-24  Cleaning Registry for Profile: jessica.larsen
+2019-06-26 11-48-24  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): glenn.colbath
+2019-06-26 11-48-24  Removing Profile: lauren.kaneshiro
+2019-06-26 11-48-24  Cleaning Registry for Profile: lauren.kaneshiro
+2019-06-26 11-48-24  Removing Profile: aaron.laurant
+2019-06-26 11-48-24  Cleaning Registry for Profile: aaron.laurant
+2019-06-26 11-48-24  Removing Profile: Brendan.cebulski
+2019-06-26 11-48-24  Cleaning Registry for Profile: Brendan.cebulski
+2019-06-26 11-48-24  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): derek.beasley
+2019-06-26 11-48-24  Removing Profile: nathan.matson
+2019-06-26 11-48-24  Cleaning Registry for Profile: nathan.matson
+2019-06-26 11-48-24  Removing Profile: melloney.dorsey
+2019-06-26 11-48-24  Cleaning Registry for Profile: melloney.dorsey
+2019-06-26 11-48-24  Removing Profile: rachel.hasler
+2019-06-26 11-48-24  Cleaning Registry for Profile: rachel.hasler
+2019-06-26 11-48-24  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): elizabeth.carmody
+2019-06-26 11-48-24  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): kevin.shute
+2019-06-26 11-48-24  Removing Profile: justin.cameron
+2019-06-26 11-48-24  Cleaning Registry for Profile: justin.cameron
+2019-06-26 11-48-24  Removing Profile: Jordan.Hartwig
+2019-06-26 11-48-24  Cleaning Registry for Profile: Jordan.Hartwig
+2019-06-26 11-48-24  Removing Profile: stephanie.pellerit
+2019-06-26 11-48-24  Cleaning Registry for Profile: stephanie.pellerit
+2019-06-26 11-48-24  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): Britni.Grosenick
+2019-06-26 11-48-24  Removing Profile: leah.shaw
+2019-06-26 11-48-24  Cleaning Registry for Profile: leah.shaw
+2019-06-26 11-48-24  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): patrick.martin
+2019-06-26 11-48-24  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): emily.klopstein
+2019-06-26 11-48-24  Removing Profile: Kayla.Hasse
+2019-06-26 11-48-24  Cleaning Registry for Profile: Kayla.Hasse
+2019-06-26 11-48-24  Removing Profile: shane.tolomeo
+2019-06-26 11-48-24  Cleaning Registry for Profile: shane.tolomeo
+2019-06-26 11-48-24  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): mwwawtm
+2019-06-26 11-48-24  Removing Profile: cherae.flowers
+2019-06-26 11-48-24  Cleaning Registry for Profile: cherae.flowers
+2019-06-26 11-48-24  Removing Profile: Jasmine.Holland
+2019-06-26 11-48-24  Cleaning Registry for Profile: Jasmine.Holland
+2019-06-26 11-48-24  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): Tiffany.Heller
+2019-06-26 11-48-24  Removing Profile: Damanique.Drake
+2019-06-26 11-48-24  Cleaning Registry for Profile: Damanique.Drake
+2019-06-26 11-48-24  Removing Profile: Wanna.Mock
+2019-06-26 11-48-24  Cleaning Registry for Profile: Wanna.Mock
+2019-06-26 11-48-24  Removing Profile: kristie.brown
+2019-06-26 11-48-24  Cleaning Registry for Profile: kristie.brown
+2019-06-26 11-48-24  Removing Profile: jermaine.henderson
+2019-06-26 11-48-24  Cleaning Registry for Profile: jermaine.henderson
+2019-06-26 11-48-24  Retrying Removal of Profile: jermaine.henderson
+2019-06-26 11-48-24  Removing Profile: reginald.meadows
+2019-06-26 11-48-24  Cleaning Registry for Profile: reginald.meadows
+2019-06-26 11-48-24  Removing Profile: sqlmaptool
+2019-06-26 11-48-24  Cleaning Registry for Profile: sqlmaptool
+2019-06-26 11-48-24  Removing Profile: Jordan.Thomson
+2019-06-26 11-48-24  Cleaning Registry for Profile: Jordan.Thomson
+2019-06-26 11-48-24  Removing Profile: Matthew.Thyng
+2019-06-26 11-48-24  Cleaning Registry for Profile: Matthew.Thyng
+2019-06-26 11-48-24  Removing Profile: kimberly.savini
+2019-06-26 11-48-24  Cleaning Registry for Profile: kimberly.savini
+2019-06-26 11-48-24  Removing Profile: erika.kopp
+2019-06-26 11-48-24  Cleaning Registry for Profile: erika.kopp
+2019-06-26 11-48-24  Removing Profile: annie.vihtelic
+2019-06-26 11-48-24  Cleaning Registry for Profile: annie.vihtelic
+2019-06-26 11-48-24  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): michael.straub
+2019-06-26 11-48-24  Removing Profile: kathleen.koceja
+2019-06-26 11-48-24  Cleaning Registry for Profile: kathleen.koceja
+2019-06-26 11-48-24  Removing Profile: ruth.jordan
+2019-06-26 11-48-24  Cleaning Registry for Profile: ruth.jordan
+2019-06-26 11-48-24  Removing Profile: samad.morton
+2019-06-26 11-48-24  Cleaning Registry for Profile: samad.morton
+2019-06-26 11-48-24  Removing Profile: austin.szeifert
+2019-06-26 11-48-24  Cleaning Registry for Profile: austin.szeifert
+2019-06-26 11-48-24  Removing Profile: Denise.Malone-cash
+2019-06-26 11-48-24  Cleaning Registry for Profile: Denise.Malone-cash
+2019-06-26 11-48-24  Removing Profile: angela.ricks
+2019-06-26 11-48-24  Cleaning Registry for Profile: angela.ricks
+2019-06-26 11-48-24  Removing Profile: Kaylee.Murphy
+2019-06-26 11-48-24  Cleaning Registry for Profile: Kaylee.Murphy
+2019-06-26 11-48-24  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): jeffrey.hussinger
+2019-06-26 11-48-24  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): yospon
+2019-06-26 11-48-24  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): laura.floyd
+2019-06-26 11-48-24  Removing Profile: gowshing.xiong
+2019-06-26 11-48-24  Cleaning Registry for Profile: gowshing.xiong
+2019-06-26 11-48-24  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): kevin.alm
+2019-06-26 11-48-24  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): megan.wilbur
+2019-06-26 11-48-24  Removing Profile: rachel.murrell
+2019-06-26 11-48-24  Cleaning Registry for Profile: rachel.murrell
+2019-06-26 11-48-24  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): constante.cabunoc
+2019-06-26 11-48-24  Removing Profile: Ashley.Stewart
+2019-06-26 11-48-24  Cleaning Registry for Profile: Ashley.Stewart
+2019-06-26 11-48-24  Removing Profile: michael.buetow
+2019-06-26 11-48-24  Cleaning Registry for Profile: michael.buetow
+2019-06-26 11-48-24  Removing Profile: laura.eades
+2019-06-26 11-48-24  Cleaning Registry for Profile: laura.eades
+2019-06-26 11-48-24  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): paula.grossman
+2019-06-26 11-48-24  Removing Profile: Keyaira.Carter
+2019-06-26 11-48-24  Cleaning Registry for Profile: Keyaira.Carter
+2019-06-26 11-48-24  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): Rebecca.Yanny
+2019-06-26 11-48-24  Removing Profile: gaurav.singh
+2019-06-26 11-48-24  Cleaning Registry for Profile: gaurav.singh
+2019-06-26 11-48-24  Removing Profile: sarah.santiago
+2019-06-26 11-48-24  Cleaning Registry for Profile: sarah.santiago
+2019-06-26 11-48-24  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): Doneija.Harris
+2019-06-26 11-48-24  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): jane.riege
+2019-06-26 11-48-24  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): Aubrey.Mikesell
+2019-06-26 11-48-24  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): kris.enders
+2019-06-26 11-48-24  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): kristyn.botic
+2019-06-26 11-48-24  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): Marlee.Kuhtz
+2019-06-26 11-48-24  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): Shannon.Gramann
+2019-06-26 11-48-24  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): tammy.iverson
+2019-06-26 11-54-09  END OF CLEANING...
+ ====================================================================================
+2019-09-06 9-16-12  START OF CLEANING...
+2019-09-06 9-16-12  COMPUTER CLEANED:  wfm\MWWAW-CB08382
+2019-09-06 9-16-12  UNUSED PROFILE QUALIFIER: 21 Days
+2019-09-06 9-16-12  PROFILES PRESERVED BY EXCEPTION... "Administrator,Default,Public,berkenbaughj"
+2019-09-06 9-16-12  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): Administrator
+2019-09-06 9-16-12  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): elis.ramos-garcia
+2019-09-06 9-16-12  Removing Profile: kayla.ewing
+2019-09-06 9-16-12  Cleaning Registry for Profile: kayla.ewing
+2019-09-06 9-16-12  Removing Profile: Michael.Hamilton
+2019-09-06 9-16-12  Cleaning Registry for Profile: Michael.Hamilton
+2019-09-06 9-16-12  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): gregory.dellinger
+2019-09-06 9-16-12  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): James.GloverIii
+2019-09-06 9-16-12  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): christopher.cole
+2019-09-06 9-16-12  Removing Profile: theresa.fix
+2019-09-06 9-16-12  Cleaning Registry for Profile: theresa.fix
+2019-09-06 9-16-12  Removing Profile: ConMgrAdmin
+2019-09-06 9-16-12  Cleaning Registry for Profile: ConMgrAdmin
+2019-09-06 9-16-12  Removing Profile: jeremy.wakeland
+2019-09-06 9-16-12  Cleaning Registry for Profile: jeremy.wakeland
+2019-09-06 9-16-12  Removing Profile: abigail.hinchey
+2019-09-06 9-16-12  Cleaning Registry for Profile: abigail.hinchey
+2019-09-06 9-16-12  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): shauna.flynn
+2019-09-06 9-16-12  Removing Profile: riley.plemons
+2019-09-06 9-16-12  Cleaning Registry for Profile: riley.plemons
+2019-09-06 9-16-12  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): strohlm
+2019-09-06 9-16-12  Removing Profile: james.beadle
+2019-09-06 9-16-12  Cleaning Registry for Profile: james.beadle
+2019-09-06 9-16-12  Removing Profile: kyiesha.bates
+2019-09-06 9-16-12  Cleaning Registry for Profile: kyiesha.bates
+2019-09-06 9-16-12  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): berkenbaughj
+2019-09-06 9-16-12  Removing Profile: hector.roman
+2019-09-06 9-16-12  Cleaning Registry for Profile: hector.roman
+2019-09-06 9-16-12  Removing Profile: jessica.martinezse
+2019-09-06 9-16-12  Cleaning Registry for Profile: jessica.martinezse
+2019-09-06 9-16-12  Removing Profile: ted.beres
+2019-09-06 9-16-12  Cleaning Registry for Profile: ted.beres
+2019-09-06 9-16-12  Removing Profile: MWWAWTM
+2019-09-06 9-16-12  Cleaning Registry for Profile: MWWAWTM
+2019-09-06 9-16-12  Removing Profile: Paul.kunaschk
+2019-09-06 9-16-12  Cleaning Registry for Profile: Paul.kunaschk
+2019-09-06 9-16-12  Removing Profile: cherae.flowers
+2019-09-06 9-16-12  Cleaning Registry for Profile: cherae.flowers
+2019-09-06 9-16-12  Removing Profile: jermaine.henderson
+2019-09-06 9-16-12  Cleaning Registry for Profile: jermaine.henderson
+2019-09-06 9-16-12  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): katie.johnson
+2019-09-06 9-16-12  Removing Profile: david.herman
+2019-09-06 9-16-12  Cleaning Registry for Profile: david.herman
+2019-09-06 9-16-12  Removing Profile: matthew.knippel
+2019-09-06 9-16-12  Cleaning Registry for Profile: matthew.knippel
+2019-09-06 9-16-12  Removing Profile: Rosalind.varnell
+2019-09-06 9-16-12  Cleaning Registry for Profile: Rosalind.varnell
+2019-09-06 9-16-12  Removing Profile: christine.nagel
+2019-09-06 9-16-12  Cleaning Registry for Profile: christine.nagel
+2019-09-06 9-16-12  Removing Profile: erika.kopp
+2019-09-06 9-16-12  Cleaning Registry for Profile: erika.kopp
+2019-09-06 9-16-12  Removing Profile: ruth.jordan
+2019-09-06 9-16-12  Cleaning Registry for Profile: ruth.jordan
+2019-09-06 9-16-12  Removing Profile: jacob.holmes
+2019-09-06 9-16-12  Cleaning Registry for Profile: jacob.holmes
+2019-09-06 9-16-12  Removing Profile: deven.velez
+2019-09-06 9-16-12  Cleaning Registry for Profile: deven.velez
+2019-09-06 9-16-12  Removing Profile: yospon
+2019-09-06 9-16-12  Cleaning Registry for Profile: yospon
+2019-09-06 9-16-12  Removing Profile: jessica.steen
+2019-09-06 9-16-12  Cleaning Registry for Profile: jessica.steen
+2019-09-06 9-16-12  Removing Profile: laura.floyd
+2019-09-06 9-16-12  Cleaning Registry for Profile: laura.floyd
+2019-09-06 9-16-12  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): gabriella.struger
+2019-09-06 9-16-12  Removing Profile: gowshing.xiong
+2019-09-06 9-16-12  Cleaning Registry for Profile: gowshing.xiong
+2019-09-06 9-16-12  Removing Profile: mari.trific
+2019-09-06 9-16-12  Cleaning Registry for Profile: mari.trific
+2019-09-06 9-16-12  Removing Profile: megan.wilbur
+2019-09-06 9-16-12  Cleaning Registry for Profile: megan.wilbur
+2019-09-06 9-16-12  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): paula.grossman
+2019-09-06 9-16-12  Removing Profile: tristan.alberda
+2019-09-06 9-16-12  Cleaning Registry for Profile: tristan.alberda
+2019-09-06 9-16-12  Removing Profile: david.pankratz
+2019-09-06 9-16-12  Cleaning Registry for Profile: david.pankratz
+2019-09-06 9-16-12  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): Alexandra.greer
+2019-09-06 9-16-12  Removing Profile: Rebecca.Yanny
+2019-09-06 9-16-12  Cleaning Registry for Profile: Rebecca.Yanny
+2019-09-06 9-16-12  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): keri.ackley
+2019-09-06 9-16-12  Removing Profile: carrie.wisinski
+2019-09-06 9-16-12  Cleaning Registry for Profile: carrie.wisinski
+2019-09-06 9-16-12  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): Aubrey.Mikesell
+2019-09-06 9-16-12  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): Eddie.Elizondo
+2019-09-06 9-16-12  Removing Profile: dianne.jordan
+2019-09-06 9-16-12  Cleaning Registry for Profile: dianne.jordan
+2019-09-06 9-16-12  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): tyree.riley
+2019-09-06 9-16-12  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): robert.neilly
+2019-09-06 9-18-02  END OF CLEANING...
+ ====================================================================================
+2019-09-10 9-02-17  START OF CLEANING...
+2019-09-10 9-02-17  COMPUTER CLEANED:  wfm\MWMLW-GP13YM2
+2019-09-10 9-02-17  UNUSED PROFILE QUALIFIER: 21 Days
+2019-09-10 9-02-17  PROFILES PRESERVED BY EXCEPTION... "Administrator,Default,Public,berkenbaughj"
+2019-09-10 9-02-17  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): Administrator
+2019-09-10 9-02-17  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): Katie.Grandy
+2019-09-10 9-02-17  Removing Profile: josh.gjellestad
+2019-09-10 9-02-17  Cleaning Registry for Profile: josh.gjellestad
+2019-09-10 9-02-17  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): watwuan.bates
+2019-09-10 9-02-17  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): Mekenzy.Brown
+2019-09-10 9-02-17  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): Ashley.Daniels
+2019-09-10 9-02-17  Removing Profile: John.Geipel
+2019-09-10 9-02-17  Cleaning Registry for Profile: John.Geipel
+2019-09-10 9-02-17  Removing Profile: ConMgrAdmin
+2019-09-10 9-02-17  Cleaning Registry for Profile: ConMgrAdmin
+2019-09-10 9-02-17  Removing Profile: Daniel.Berger
+2019-09-10 9-02-17  Cleaning Registry for Profile: Daniel.Berger
+2019-09-10 9-02-17  Removing Profile: Mike.Tajima
+2019-09-10 9-02-17  Cleaning Registry for Profile: Mike.Tajima
+2019-09-10 9-02-17  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): Eric.Chandler
+2019-09-10 9-02-17  Removing Profile: Nicole.Mielke
+2019-09-10 9-02-17  Cleaning Registry for Profile: Nicole.Mielke
+2019-09-10 9-02-17  Removing Profile: Josh.Borgschulte
+2019-09-10 9-02-17  Cleaning Registry for Profile: Josh.Borgschulte
+2019-09-10 9-02-17  Removing Profile: Paul.Sadowski
+2019-09-10 9-02-17  Cleaning Registry for Profile: Paul.Sadowski
+2019-09-10 9-02-17  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): Anthony.Salm
+2019-09-10 9-02-17  Removing Profile: riley.plemons
+2019-09-10 9-02-17  Cleaning Registry for Profile: riley.plemons
+2019-09-10 9-02-17  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): James.Beadle
+2019-09-10 9-02-17  Removing Profile: austin.kolczynski
+2019-09-10 9-02-17  Cleaning Registry for Profile: austin.kolczynski
+2019-09-10 9-02-17  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): berkenbaughj
+2019-09-10 9-02-17  Removing Profile: Philip.Ludlow
+2019-09-10 9-02-17  Cleaning Registry for Profile: Philip.Ludlow
+2019-09-10 9-02-17  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): Abdur.Ahmad
+2019-09-10 9-02-17  Removing Profile: Natalie.Hill3
+2019-09-10 9-02-17  Cleaning Registry for Profile: Natalie.Hill3
+2019-09-10 9-02-17  Removing Profile: Kayla.Massey
+2019-09-10 9-02-17  Cleaning Registry for Profile: Kayla.Massey
+2019-09-10 9-02-17  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): Ryan.Laflin
+2019-09-10 9-02-17  Removing Profile: Casey.Otto
+2019-09-10 9-02-17  Cleaning Registry for Profile: Casey.Otto
+2019-09-10 9-02-17  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): Christina.Angeli
+2019-09-10 9-02-17  Removing Profile: Miriam.Querimit
+2019-09-10 9-02-17  Cleaning Registry for Profile: Miriam.Querimit
+2019-09-10 9-02-17  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): Fransau.Vazquez
+2019-09-10 9-02-17  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): Kevin.Wakeland
+2019-09-10 9-02-17  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): Brett.Allen
+2019-09-10 9-02-17  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): Nathan.Waldman
+2019-09-10 9-02-17  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): Devin.Miller
+2019-09-10 9-02-17  Removing Profile: Shelby.Page
+2019-09-10 9-02-17  Cleaning Registry for Profile: Shelby.Page
+2019-09-10 9-02-17  Removing Profile: Aleksandra.Guthrie
+2019-09-10 9-02-17  Cleaning Registry for Profile: Aleksandra.Guthrie
+2019-09-10 9-02-17  Removing Profile: Margaret.Moran
+2019-09-10 9-02-17  Cleaning Registry for Profile: Margaret.Moran
+2019-09-10 9-02-17  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): cullen.bernetzke
+2019-09-10 9-02-17  Removing Profile: mwmlwtm
+2019-09-10 9-02-17  Cleaning Registry for Profile: mwmlwtm
+2019-09-10 9-02-17  Removing Profile: mari.trific
+2019-09-10 9-02-17  Cleaning Registry for Profile: mari.trific
+2019-09-10 9-02-17  Removing Profile: Angelina.Were
+2019-09-10 9-02-17  Cleaning Registry for Profile: Angelina.Were
+2019-09-10 9-02-17  Removing Profile: dustin.swift
+2019-09-10 9-02-17  Cleaning Registry for Profile: dustin.swift
+2019-09-10 9-02-17  Removing Profile: Jordan.Campbell
+2019-09-10 9-02-17  Cleaning Registry for Profile: Jordan.Campbell
+2019-09-10 9-02-17  Removing Profile: Joseph.Lazzara
+2019-09-10 9-02-17  Cleaning Registry for Profile: Joseph.Lazzara
+2019-09-10 9-02-17  Removing Profile: Broderick.womack
+2019-09-10 9-02-17  Cleaning Registry for Profile: Broderick.womack
+2019-09-10 9-02-17  Removing Profile: tristan.alberda
+2019-09-10 9-02-17  Cleaning Registry for Profile: tristan.alberda
+2019-09-10 9-02-17  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): tyler.naumowicz
+2019-09-10 9-02-17  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): frank.stascik
+2019-09-10 9-02-17  Removing Profile: clay.gittrich
+2019-09-10 9-02-17  Cleaning Registry for Profile: clay.gittrich
+2019-09-10 9-02-17  Removing Profile: chase.williams1
+2019-09-10 9-02-17  Cleaning Registry for Profile: chase.williams1
+2019-09-10 9-02-17  Removing Profile: Breyon.Oneal
+2019-09-10 9-02-17  Cleaning Registry for Profile: Breyon.Oneal
+2019-09-10 9-02-17  Removing Profile: Ben.Englebretson
+2019-09-10 9-02-17  Cleaning Registry for Profile: Ben.Englebretson
+2019-09-10 9-02-17  Removing Profile: katie.hostetler
+2019-09-10 9-02-17  Cleaning Registry for Profile: katie.hostetler
+2019-09-10 9-03-50  END OF CLEANING...
+ ====================================================================================
+2019-09-10 14-09-49  START OF CLEANING...
+2019-09-10 14-09-49  COMPUTER CLEANED:  wfm\MWMLW-GP11YM2
+2019-09-10 14-09-49  UNUSED PROFILE QUALIFIER: 21 Days
+2019-09-10 14-09-49  PROFILES PRESERVED BY EXCEPTION... "Administrator,Default,Public,berkenbaughj"
+2019-09-10 14-09-49  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): Administrator
+2019-09-10 14-09-49  Removing Profile: Katie.Grandy
+2019-09-10 14-09-49  Cleaning Registry for Profile: Katie.Grandy
+2019-09-10 14-09-49  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): Garrison.Falvey
+2019-09-10 14-09-49  Removing Profile: Adriana.Morales
+2019-09-10 14-09-49  Cleaning Registry for Profile: Adriana.Morales
+2019-09-10 14-09-49  Removing Profile: Dhondup.Tsering
+2019-09-10 14-09-49  Cleaning Registry for Profile: Dhondup.Tsering
+2019-09-10 14-09-49  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): Erik.Norlock
+2019-09-10 14-09-49  Removing Profile: terrapin.pelton
+2019-09-10 14-09-49  Cleaning Registry for Profile: terrapin.pelton
+2019-09-10 14-09-49  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): James.Cocroft
+2019-09-10 14-09-49  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): Dana.Gavin
+2019-09-10 14-09-49  Removing Profile: ConMgrAdmin
+2019-09-10 14-09-49  Cleaning Registry for Profile: ConMgrAdmin
+2019-09-10 14-09-49  Removing Profile: Caela.St.Patrick
+2019-09-10 14-09-49  Cleaning Registry for Profile: Caela.St.Patrick
+2019-09-10 14-09-49  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): Daniel.Berger
+2019-09-10 14-09-49  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): debra.sama
+2019-09-10 14-09-49  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): mike.tajima
+2019-09-10 14-09-49  Removing Profile: Stephen.Sorenson
+2019-09-10 14-09-49  Cleaning Registry for Profile: Stephen.Sorenson
+2019-09-10 14-09-49  Removing Profile: Josh.Borgschulte
+2019-09-10 14-09-49  Cleaning Registry for Profile: Josh.Borgschulte
+2019-09-10 14-09-49  Removing Profile: Paul.Sadowski
+2019-09-10 14-09-49  Cleaning Registry for Profile: Paul.Sadowski
+2019-09-10 14-09-49  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): Lauren.Klawans
+2019-09-10 14-09-49  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): Megan.Rzepiejewski
+2019-09-10 14-09-49  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): berkenbaughj
+2019-09-10 14-09-49  Removing Profile: Elizabeth.Barajas1
+2019-09-10 14-09-49  Cleaning Registry for Profile: Elizabeth.Barajas1
+2019-09-10 14-09-49  Removing Profile: Riq.Weiss
+2019-09-10 14-09-49  Cleaning Registry for Profile: Riq.Weiss
+2019-09-10 14-09-49  Removing Profile: Amanda.John
+2019-09-10 14-09-49  Cleaning Registry for Profile: Amanda.John
+2019-09-10 14-09-49  Removing Profile: leatha.huhta
+2019-09-10 14-09-49  Cleaning Registry for Profile: leatha.huhta
+2019-09-10 14-09-49  Removing Profile: Paul.Kunaschk
+2019-09-10 14-09-49  Cleaning Registry for Profile: Paul.Kunaschk
+2019-09-10 14-09-49  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): Richard.Marshall
+2019-09-10 14-09-49  Removing Profile: Matthew.Thyng
+2019-09-10 14-09-49  Cleaning Registry for Profile: Matthew.Thyng
+2019-09-10 14-09-49  Removing Profile: elizabeth.green3
+2019-09-10 14-09-49  Cleaning Registry for Profile: elizabeth.green3
+2019-09-10 14-09-49  Removing Profile: Alex.Johnson
+2019-09-10 14-09-49  Cleaning Registry for Profile: Alex.Johnson
+2019-09-10 14-09-49  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): Michael.Christie1
+2019-09-10 14-09-49  Removing Profile: Haleigh.Bergemann
+2019-09-10 14-09-49  Cleaning Registry for Profile: Haleigh.Bergemann
+2019-09-10 14-09-49  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): Stephen.Becker
+2019-09-10 14-09-49  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): Ruth.Michals
+2019-09-10 14-09-49  Removing Profile: Jacob.Holmes
+2019-09-10 14-09-49  Cleaning Registry for Profile: Jacob.Holmes
+2019-09-10 14-09-49  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): Erik.Peppey
+2019-09-10 14-09-49  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): Claire.James
+2019-09-10 14-09-49  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): Dallas.Siebers
+2019-09-10 14-09-49  Removing Profile: Chris.Kresser
+2019-09-10 14-09-49  Cleaning Registry for Profile: Chris.Kresser
+2019-09-10 14-09-49  Removing Profile: mwmlwtm
+2019-09-10 14-09-49  Cleaning Registry for Profile: mwmlwtm
+2019-09-10 14-09-49  Removing Profile: andrea.martinez2
+2019-09-10 14-09-49  Cleaning Registry for Profile: andrea.martinez2
+2019-09-10 14-09-49  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): dustin.swift
+2019-09-10 14-09-49  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): Kyla.Holimon
+2019-09-10 14-09-49  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): joshua.deleeuw
+2019-09-10 14-09-49  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): Alexandra.Hoppe
+2019-09-10 14-09-49  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): Alex.Dettman
+2019-09-10 14-09-49  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): Meghan.Eder
+2019-09-10 14-09-49  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): Mckayla.Campbell
+2019-09-10 14-09-49  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): Alexander.Delleman
+2019-09-10 14-09-49  Removing Profile: katherine.clark
+2019-09-10 14-09-49  Cleaning Registry for Profile: katherine.clark
+2019-09-10 14-09-49  Removing Profile: Loudon.Barnes
+2019-09-10 14-09-49  Cleaning Registry for Profile: Loudon.Barnes
+2019-09-10 14-09-49  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): Michael.Poelzer
+2019-09-10 14-09-49  Removing Profile: Holly.Kehlnhofer
+2019-09-10 14-09-49  Cleaning Registry for Profile: Holly.Kehlnhofer
+2019-09-10 14-09-49  Removing Profile: Emily.Bethke
+2019-09-10 14-09-49  Cleaning Registry for Profile: Emily.Bethke
+2019-09-10 14-09-49  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): Connor.Depies
+2019-09-10 14-09-49  Removing Profile: William.Holtgren
+2019-09-10 14-09-49  Cleaning Registry for Profile: William.Holtgren
+2019-09-10 14-11-18  END OF CLEANING...
+ ====================================================================================
+2019-10-08 11-21-38  START OF CLEANING...
+2019-10-08 11-21-38  COMPUTER CLEANED:  wfm\MWMLW-BC92S52
+2019-10-08 11-21-38  UNUSED PROFILE QUALIFIER: 21 Days
+2019-10-08 11-21-38  PROFILES PRESERVED BY EXCEPTION... "Administrator,Default,Public,berkenbaughj"
+2019-10-08 11-21-38  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): Administrator
+2019-10-08 11-21-38  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): anna.langheim
+2019-10-08 11-21-38  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): Nicholas.Purcell
+2019-10-08 11-21-38  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): Watwuan.Bates
+2019-10-08 11-21-38  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): Laura.Hofstad
+2019-10-08 11-21-38  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): James.Gregory
+2019-10-08 11-21-38  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): Patrick.Sanders
+2019-10-08 11-21-38  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): Grey.Siech
+2019-10-08 11-21-38  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): Stephen.Sorenson
+2019-10-08 11-21-38  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): berkenbaughj
+2019-10-08 11-21-38  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): Philip.Ludlow
+2019-10-08 11-21-38  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): Alyssa.JohnsonWell
+2019-10-08 11-21-38  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): Peter.West
+2019-10-08 11-21-38  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): sarah.olsen
+2019-10-08 11-21-38  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): jordan.mueller
+2019-10-08 11-21-38  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): Candace.Reynolds
+2019-10-08 11-21-38  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): Eliot.Lang
+2019-10-08 11-21-38  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): Daniel.Lee1
+2019-10-08 11-21-38  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): Jacob.Langheim
+2019-10-08 11-21-38  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): Gabriel.Perez
+2019-10-08 11-21-38  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): Elias.Payne
+2019-10-08 11-21-38  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): Benjamin.Kane
+2019-10-08 11-21-38  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): Alexis.Rugg
+2019-10-08 11-21-49  END OF CLEANING...
+ ====================================================================================
+2019-10-08 11-22-04  START OF CLEANING...
+2019-10-08 11-22-04  COMPUTER CLEANED:  wfm\MWMLW-BC92S52
+2019-10-08 11-22-04  UNUSED PROFILE QUALIFIER: 21 Days
+2019-10-08 11-22-04  PROFILES PRESERVED BY EXCEPTION... "Administrator,Default,Public,berkenbaughj"
+2019-10-08 11-22-04  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): Administrator
+2019-10-08 11-22-04  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): anna.langheim
+2019-10-08 11-22-04  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): Nicholas.Purcell
+2019-10-08 11-22-04  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): Watwuan.Bates
+2019-10-08 11-22-04  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): Laura.Hofstad
+2019-10-08 11-22-04  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): James.Gregory
+2019-10-08 11-22-04  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): Patrick.Sanders
+2019-10-08 11-22-04  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): Grey.Siech
+2019-10-08 11-22-04  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): Stephen.Sorenson
+2019-10-08 11-22-04  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): berkenbaughj
+2019-10-08 11-22-04  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): Philip.Ludlow
+2019-10-08 11-22-04  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): Alyssa.JohnsonWell
+2019-10-08 11-22-04  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): Peter.West
+2019-10-08 11-22-04  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): sarah.olsen
+2019-10-08 11-22-04  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): jordan.mueller
+2019-10-08 11-22-04  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): Candace.Reynolds
+2019-10-08 11-22-04  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): Eliot.Lang
+2019-10-08 11-22-04  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): Daniel.Lee1
+2019-10-08 11-22-04  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): Jacob.Langheim
+2019-10-08 11-22-04  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): Gabriel.Perez
+2019-10-08 11-22-04  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): Elias.Payne
+2019-10-08 11-22-04  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): Benjamin.Kane
+2019-10-08 11-22-04  Skipping Deletion of Profile (Reason: Unqualified Age or Exception): Alexis.Rugg
+2019-10-08 11-22-14  END OF CLEANING...
+ ====================================================================================
