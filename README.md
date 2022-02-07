@@ -3,8 +3,7 @@ Migrate Windows user profile to a new machine using Microsoft USMT with a Powers
 
 ## Setup
 The USMT binaries are already present and available with the package of delivered files.
-- If an error is encountered during the migration then the first suggestion is that the most recent version of the Migration Assistant be downloaded and used and you reboot your workstation.
-- If the current version is already being used or you experience the same issue after a reboot please read through the rest of this file and as a final resort, reach out to your AC for additional steps.
+- If an error is encountered during the migration then the first suggestion is that the most recent version of the Migration Assistant be downloaded and used and you reboot the workstation being migrated. Rebooting will release any file and previous registry locks.
 
 .
 +-- README.md
@@ -151,6 +150,8 @@ If an error is encounter while using the Migration Assistant:
 		- These are instrumental in discovering the root of the issue.
 			*Most times the immediate error presented to users appears to point in one direction and it's actually quite different.*
 2. If the migration didn't run long enough to produce logs then that in itself is telling but the logs themselves have conciderable information.
+
+***Additional user documentation is included above***
 
 ## Troubleshooting Return Codes and Error Messages
 https://docs.microsoft.com/en-us/windows/deployment/usmt/usmt-return-codes#a-href-idbkmk-tscodeserrorsatroubleshooting-return-codes-and-error-messages
