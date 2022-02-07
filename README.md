@@ -1,6 +1,9 @@
 # Migrate-WindowsUserProfile
 Migrate Windows user profile to a new machine using Microsoft USMT with a Powershell GUI.
 
+Note:  Microsoft's default encryption for USMT is 3DES, which is being retired https://www.cryptomathic.com/news-events/blog/3des-is-officially-being-retired. This version alters the encryption to AES 128.
+- In 2011, it was calculated that the fastest supercomputer in the world would take approximately one billion billion (one quintillion) years to crack a 128-bit AES key by force. No, it's not perfect but it's generally thought of as the gold standard when applying encryption. Sure this could be bumped up to 256-bit encryption for the application but one needs to take migration speeds and necessity into account.
+
 ## Setup
 The USMT binaries are already present and available with the package of delivered files.
 - If an error is encountered during the migration then the first suggestion is that the most recent version of the Migration Assistant be downloaded and used and you reboot the workstation being migrated. Rebooting will release any file and previous registry locks.
