@@ -20,7 +20,7 @@
                  The default data exported is... AppData, Printers, My Documents, Wallpapers, Favorites, My Pictures, Desktop.
                  The export can be conditionally be used on 32 and 64 bit computers.
     Caveats    : The encryption option (check box) MUST be selected for the export and import.
-    Created    : Joe Rodriguez... Edited 02/18/2019 by Jim.Berkenbaugh@Wholefoods.com
+    Created    : 02/18/2019 by Jim.Berkenbaugh@Wholefoods.com
     Requires   : PowerShell V3 [or greater]
                  (The SO region has reported having to update a few computers to get to this minimum.  That said, all Win7 workstations 
                  should be on atleast 3.0 and Win10 is running a minimum of 5.0)
